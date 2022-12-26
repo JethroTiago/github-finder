@@ -3,5 +3,18 @@
     margin: 0;
     box-sizing: border-box;
     font-family: 'Blinker', sans-serif;
-    color: #FFFFFF;
+    color: #FAF7F0;
+}
+
+body {
+    background-color: #98A8F8;
+    padding: 2rem;
+}
+
+p {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
 }
