@@ -1,0 +1,7 @@
+.search {
+    background-color: #87A2FB;
+    padding: 2rem;
+    border-radius: 1rem;
+    display: flex;
+    flex-direction: column;
+}
