@@ -4,4 +4,34 @@
     border-radius: 1rem;
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+.search p {
+    color: #FFFFFF;
+}
+
+.search_container {
+    display: flex;
+    gap: .5rem;
+}
+
+.search_container input,
+.search_container button {
+    padding: .6rem;
+    border-radius: 3px;
+    border: none;
+    color: #6F38C5;
+}
+
+.search_container button {
+    background-color: #6F38C5;
+    cursor: pointer;
+}
+
+.search_container button:hover {
+    background-color: #ADDDD0;
 }
