@@ -1,32 +1,37 @@
-﻿# Github Finder desenvolvido com REACT e TypeScript
+# Github Finder powered by REACT and TypeScript
+
+Github finder created with <strong>REACT</strong> and <strong>TypeScript</strong> through the <strong>Vite</strong> compilation tool, guided by professor [Matheus Battisti](https://github.com/matheusbattisti) video lesson.
+
 Github finder criado com <strong>REACT</strong> e <strong>TypeScript</strong> através da ferramenta de compilação <strong>Vite</strong>, orientado por videoaula do professor [Matheus Battisti](https://github.com/matheusbattisti).
 
-### Deploy
+### Deploy:
 
 https://github-finder-ruddy-rho.vercel.app/
 
-### Visualização do Projeto
+### Project View / Visualização do Projeto:
 
 ![githubfinder](https://user-images.githubusercontent.com/103612874/209887507-e8a8e93c-d97f-4966-97f8-9273e85b515f.jpg)
 
-## Como Funciona
+## How it works / Como Funciona:
+
+An application that fetches GitHub users and displays their data via API response<b>
 
 Uma aplicação que busca usuários do GitHub e exibe os seus dados via resposta da API
 
-## Linguagens e estruturas de desenvolvimento:
+## Development languages and frameworks / Linguagens e estruturas de desenvolvimento:
 
 * <strong>REACT</strong>
 * TypeScript
 * VITE
 
-## Aprendizados:
+## Learnings / Aprendizados:
 
-* Melhor entendimento do funcionamento do React com o TypeScript;
-* Uso do react-icons/bs;
-* Consumo da API Fetch;
+* Better understanding of how React works with TypeScript;
+* Use of react-icons/bs;
+* Fetch API consumption;
 * CSS Module;
 
-## Agradecimentos
+## Thanks to / Agradecimentos:
 
 * Instrutor [Matheus Battisti](https://github.com/matheusbattisti)
 
